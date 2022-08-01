@@ -1,0 +1,18 @@
+Package: EthiopiaGrainR
+Title: Ethiopia Grain Mill Data analysis
+Version: 0.0.0.9000
+Authors@R: 
+    person("Ama", "Owusu-Darko", , "aowusuda@asu.edu", role = c("cre", "aut"))
+Description: Functions to analyze data from the Ethiopian Grain Mill
+    project.
+License: MIT + file LICENSE
+URL: https://eap-ethiopia-mill-data.netlify.app/
+BugReports: http://that
+Imports: 
+    httr,
+    jsonlite,
+    purrr,
+    readr,
+    tibble
+Encoding: UTF-8
+RoxygenNote: 7.2.1

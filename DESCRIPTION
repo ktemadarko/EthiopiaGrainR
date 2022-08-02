@@ -9,10 +9,15 @@ License: MIT + file LICENSE
 URL: https://eap-ethiopia-mill-data.netlify.app/
 BugReports: http://that
 Imports: 
+    dplyr,
+    hms,
     httr,
     jsonlite,
+    labelled,
+    lubridate,
     purrr,
     readr,
+    stringr,
     tibble
 Encoding: UTF-8
 RoxygenNote: 7.2.1

@@ -40,6 +40,12 @@ use_package("jsonlite")
 use_package("readr")
 use_package("tibble")
 use_package("purrr")
+use_package("lubridate")
+use_package("dplyr")
+use_package("labelled")
+use_package("hms")
+use_package("stringr")
+
 
 # Clean your description
 use_tidy_description()
